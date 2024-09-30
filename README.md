@@ -17,5 +17,4 @@ QuickSight generates visualizations from Redshift data
 SNS sends fraud detection alerts
 AWS Step Functions orchestrates the entire pipeline
 
-🚀 Setup Instructions
 ![Data Pipeline Architecture](./Data%20pipeline%20Arch.png)
