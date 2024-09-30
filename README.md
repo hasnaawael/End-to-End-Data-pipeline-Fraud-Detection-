@@ -1,1 +1,1 @@
-Data pipeline Arch.png
+![Alt text](Data pipeline Arch.png)
